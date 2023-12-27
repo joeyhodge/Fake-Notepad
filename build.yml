@@ -4,7 +4,7 @@ on:
   push
 
 env:
-  SOLUTION_FILE_PATH: fake-notepad.sln
+  SOLUTION_FILE_PATH: Notepad.sln
   BUILD_CONFIGURATION: Release
 
 jobs:
